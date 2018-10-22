@@ -15,7 +15,7 @@
 <style>
     .panel-body {
         font-family: 'Arizonia', cursive;
-        font-size: 16px;
+        font-size: 24px;
         color: purple;
     }
 
